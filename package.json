@@ -13,19 +13,10 @@
     "heroku-postbuild": "cd client && npm run build"
   },
   "repository": {
-    "type": "git",
-    "url": "git@work.github.com:izabelacloud/Book-Search-Engine.git"
+    "type": "git"
+    
   },
-  "keywords": [],
-  "author": "Izabela Petrovicova",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/izabelacloud/Book-Search-Engine/issues"
-  },
-  "homepage": "https://github.com/izabelacloud/Book-Search-Engine#readme",
-  "dependencies": {
-    "if-env": "^1.0.4"
-  },
+  
   "devDependencies": {
     "concurrently": "^5.2.0"
   }
